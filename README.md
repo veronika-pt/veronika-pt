@@ -9,7 +9,7 @@
 
 # I get proper things done. 🚀 
 
-I’m **Verónika**, a customer-centric **Project Manager & Content Strategist** with a background in web and software development for real estate, fintech, and IT. I specialize in project management, UX, Agile workflows, and content operations.
+I’m **Verónika**, a customer-centric **Project Manager** with a background in web and software development for real estate, fintech, and electrical power industry. I specialize in UX, Agile workflows, stakeholder communication, and cross-functional collaboration.
 
 - ❤️ Passionate about optimizing workflows, improving team collaboration, and delivering meaningful digital experiences.  
 - 📍 Based in Lisbon, Portugal
