@@ -9,11 +9,13 @@
 
 # I get proper things done. 🚀 
 
-I’m **Verónika**, a customer-centric **Project Manager** with a background in web and software development for real estate, fintech, and electrical power industry. I specialize in UX, Agile workflows, stakeholder communication, and cross-functional collaboration.
+Hi, I’m Verónika – a Product Operations and UX Operations lead based in Lisbon.
 
-- ❤️ Passionate about optimizing workflows, improving team collaboration, and delivering meaningful digital experiences.  
-- 📍 Based in Lisbon, Portugal
-- 🌍 Open to global opportunities 
+I help product, design, and engineering teams turn ambiguity into clear plans, better workflows, and shipped digital products.
+
+📍 Lisbon, Portugal
+🌍 Open to remote and international opportunities
+🛠️ Product Ops · UX Ops · Product Strategy · Design Program Management
 
 </header>
 
