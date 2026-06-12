@@ -13,8 +13,8 @@ Hi, I’m Verónika – a Product Operations and UX Operations lead based in Lis
 
 I help product, design, and engineering teams turn ambiguity into clear plans, better workflows, and shipped digital products.
 
-📍 Lisbon, Portugal
-🌍 Open to remote and international opportunities
+📍 Lisbon, Portugal  
+🌍 Open to remote and international opportunities  
 🛠️ Product Ops · UX Ops · Product Strategy · Design Program Management
 
 </header>
