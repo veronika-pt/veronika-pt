@@ -19,7 +19,9 @@ My background spans enterprise software, Product & UX Operations, and digital de
 I also build and launch my own digital products. The projects here reflect my hands-on work, from shaping an idea to shipping and improving it.
 
 📍 Lisbon, Portugal
+
 🌍 Open to permanent roles, contracts and part-time projects
+
 🔗 Portfolio and case studies: https://veronika.pt
 
 </header>
