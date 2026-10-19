@@ -9,13 +9,18 @@
 
 # I get proper things done. 🚀 
 
-Hi, I’m Verónika – a Product Operations and UX Operations lead based in Lisbon.
+Hi, I’m Verónika. 
+I’m a Senior Project Manager based in Lisbon, Portugal.
 
-I help product, design, and engineering teams turn ambiguity into clear plans, better workflows, and shipped digital products.
+I help product, design and engineering teams turn complex work into clear plans and delivered outcomes — aligning stakeholders, managing dependencies and keeping delivery on track.
 
-📍 Lisbon, Portugal  
-🌍 Open to remote and international opportunities  
-🛠️ Product Ops · UX Ops · Product Strategy · Design Program Management
+My background spans enterprise software, Product & UX Operations, and digital delivery. At GE Vernova, I helped improve on-time delivery across a distributed UX team from around 25% to 85%.
+
+I also build and launch my own digital products. The projects here reflect my hands-on work, from shaping an idea to shipping and improving it.
+
+📍 Lisbon, Portugal
+🌍 Open to permanent roles, contracts and part-time projects
+🔗 Portfolio and case studies: https://veronika.pt
 
 </header>
 
